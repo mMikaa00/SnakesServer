@@ -1,0 +1,25 @@
+﻿  serve.c
+c:\users\administrator\desktop\c\snakesserve\snakesserve\serve.c(48): warning C4244: “函数”: 从“SOCKET”转换到“int”，可能丢失数据
+  serpro.c
+c:\users\administrator\desktop\c\snakesserve\snakesserve\serpro.c(153): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\c\snakesserve\snakesserve\serpro.c(156): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\c\snakesserve\snakesserve\serpro.c(159): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\c\snakesserve\snakesserve\serpro.c(162): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\c\snakesserve\snakesserve\serpro.c(165): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\c\snakesserve\snakesserve\serpro.c(107): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+c:\users\administrator\desktop\c\snakesserve\snakesserve\serpro.c(123): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+c:\users\administrator\desktop\c\snakesserve\snakesserve\serpro.c(133): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+c:\users\administrator\desktop\c\snakesserve\snakesserve\serpro.c(137): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+c:\users\administrator\desktop\c\snakesserve\snakesserve\serpro.c(141): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+c:\users\administrator\desktop\c\snakesserve\snakesserve\serpro.c(145): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+c:\users\administrator\desktop\c\snakesserve\snakesserve\serpro.c(149): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+  正在生成代码...
+  Snakesserve.vcxproj -> C:\Users\Administrator\Desktop\c\Snakesserve\x64\Debug\Snakesserve.exe
+  Snakesserve.vcxproj -> C:\Users\Administrator\Desktop\c\Snakesserve\x64\Debug\Snakesserve.pdb (Partial PDB)
